@@ -1,0 +1,56 @@
+[
+    {
+      "_id": "65fda5982dc0b6215bdc5d06",
+      "name": "Elvira Morales",
+      "email": "elviramorales@voratak.com",
+      "role": "user",
+      "active": false,
+      "photo": "user-1.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda598af0c9aa9b2251798",
+      "name": "Chelsea Lara",
+      "email": "chelsealara@voratak.com",
+      "role": "user",
+      "active": false,
+      "photo": "user-5.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda598088d028b12a063fe",
+      "name": "Nettie Mcguire",
+      "email": "nettiemcguire@voratak.com",
+      "role": "admin",
+      "active": false,
+      "photo": "user-2.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda59836fc24096550fe79",
+      "name": "Jodi Russell",
+      "email": "jodirussell@voratak.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-3.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda598247adfedd8e63742",
+      "name": "Kim Benjamin",
+      "email": "kimbenjamin@voratak.com",
+      "role": "user",
+      "active": false,
+      "photo": "user-1.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda59856053e2b59744d0b",
+      "name": "Geneva Whitaker",
+      "email": "genevawhitaker@voratak.com",
+      "role": "user",
+      "active": true,
+      "photo": "user-1.jpg",
+      "password": ""
+    }
+  ]
